@@ -1,0 +1,9 @@
+# Large data, saved model, credentials
+data/*.csv
+models/
+kaggle.json
+scored_transactions.csv
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
